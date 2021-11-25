@@ -652,7 +652,7 @@ html {
 /* For large screen Resolution */
 @media only screen and (min-width: 1367px) and (max-width: 1920px) {
   .portfolio__gallery {
-    height: 265vw;
+    height: 285vw;
     position: relative;
     visibility: hidden; }
   .portfolio__gallery__figure:nth-child(1) {
